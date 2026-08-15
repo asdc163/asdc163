@@ -2,15 +2,15 @@
 
 I build small product tools that turn messy signals into clear next steps.
 
-My current focus is AI product management: product discovery, evidence quality, experiments, human review, and release decisions that can be inspected after the demo is over.
+My current focus is AI product management: product discovery, evidence quality, experiments, human review, and release decisions that remain inspectable after the demo is over.
 
 ## Featured project
 
 ### [PM Signal Lab](https://github.com/asdc163/pm-signal-lab)
 
-A local-first evidence-to-decision workbench for product teams.
+An English-first, local-first field notebook for keeping one product signal next to its source, checking what it supports, and carrying a smallest test into a product discussion.
 
-[Try the hosted demo](https://asdc163.github.io/pm-signal-lab/) · [Read the product contract](https://github.com/asdc163/pm-signal-lab/tree/main/docs/product/pm-signal-lab)
+[Try the hosted demo](https://asdc163.github.io/pm-signal-lab/) · [Read the field notebook contract](https://github.com/asdc163/pm-signal-lab/blob/main/docs/product/pm-signal-lab/53-no-ai-feel-field-notebook-contract-2026-08-15.md) · [Read the release audit](https://github.com/asdc163/pm-signal-lab/blob/main/docs/product/pm-signal-lab/54-field-notebook-release-audit-2026-08-15.md)
 
 The current public pilot is looking for five international PMs, founders, designers, or product engineers. Start with the [five-minute session kit](https://github.com/asdc163/pm-signal-lab/blob/main/docs/operations/pm-session-kit.md), then leave one concrete observation in [pilot issue #4](https://github.com/asdc163/pm-signal-lab/issues/4).
 
@@ -20,7 +20,7 @@ It guides a product signal through four practical steps:
 
 The project is intentionally transparent about source links, limitations, review states, and what has not been tested. The public repository includes the product contract, UX decisions, QA evidence, and the reference research behind the first release.
 
-The current preview uses deterministic rules and fixtures rather than an external model, so the workflow can be inspected without an API key. It is a portfolio artifact and public pilot—not a claim of adoption, model quality, or production readiness.
+The hosted demo currently uses deterministic rules and fixtures rather than an external model, so the workflow can be inspected without an API key. It is a portfolio artifact and public pilot—not a claim of adoption, model quality, or production readiness.
 
 ## What I am practising
 
