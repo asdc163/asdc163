@@ -12,13 +12,15 @@ A local-first evidence-to-decision workbench for product teams.
 
 [Try the hosted demo](https://asdc163.github.io/pm-signal-lab/) · [Read the product contract](https://github.com/asdc163/pm-signal-lab/tree/main/docs/product/pm-signal-lab)
 
+The current public pilot is looking for five international PMs, founders, designers, or product engineers. Start with the [five-minute session kit](https://github.com/asdc163/pm-signal-lab/blob/main/docs/operations/pm-session-kit.md), then leave one concrete observation in [pilot issue #4](https://github.com/asdc163/pm-signal-lab/issues/4).
+
 It guides a product signal through four practical steps:
 
 `Collect` → `Verify` → `Decide` → `Ship`
 
 The project is intentionally transparent about source links, limitations, review states, and what has not been tested. The public repository includes the product contract, UX decisions, QA evidence, and the reference research behind the first release.
 
-The current pilot uses a fixed rule engine rather than an external model, so the workflow can be inspected without an API key. It is a portfolio artifact and public pilot—not a claim of adoption, model quality, or production readiness.
+The current preview uses deterministic rules and fixtures rather than an external model, so the workflow can be inspected without an API key. It is a portfolio artifact and public pilot—not a claim of adoption, model quality, or production readiness.
 
 ## What I am practising
 
