@@ -12,7 +12,9 @@ An English-first, local-first field notebook for keeping one product signal next
 
 [Try the hosted demo](https://asdc163.github.io/pm-signal-lab/) · [Read the field notebook contract](https://github.com/asdc163/pm-signal-lab/blob/main/docs/product/pm-signal-lab/53-no-ai-feel-field-notebook-contract-2026-08-15.md) · [Read the release audit](https://github.com/asdc163/pm-signal-lab/blob/main/docs/product/pm-signal-lab/54-field-notebook-release-audit-2026-08-15.md)
 
-The current public pilot is looking for five international PMs, founders, designers, or product engineers. Start with the [five-minute session kit](https://github.com/asdc163/pm-signal-lab/blob/main/docs/operations/pm-session-kit.md), then leave one concrete observation in [pilot issue #4](https://github.com/asdc163/pm-signal-lab/issues/4).
+The released [PM Source to Test skill](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-source-to-test) is a no-model, source-linked review aid for turning raw PM notes into one smallest test. Read [`SKILL.md`](https://github.com/asdc163/pm-signal-lab/blob/main/skills/pm-source-to-test/SKILL.md), then use the [skill pilot issue #46](https://github.com/asdc163/pm-signal-lab/issues/46) to report one concrete client or workflow observation.
+
+The hosted demo pilot is looking for five international PMs, founders, designers, or product engineers. Start with the [five-minute session kit](https://github.com/asdc163/pm-signal-lab/blob/main/docs/operations/pm-session-kit.md), then leave one concrete observation in [pilot issue #4](https://github.com/asdc163/pm-signal-lab/issues/4).
 
 It guides a product signal through four practical steps:
 
