@@ -17,6 +17,7 @@ The released PM skill set is deliberately small and tool-free:
 - [PM Source to Test](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-source-to-test) turns raw PM notes into a source-linked review and one smallest test.
 - [PM Trend to Decision](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-trend-to-decision) turns a dated AI, platform, developer-tool, or market change into an impact map and one smallest validation.
 - [PM Experiment to Readout](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-experiment-to-readout) turns a bounded test result into a metric and guardrail readout, a continue/change/stop/hold decision, and one smallest next action.
+- [PM AI Evaluation Plan](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-evaluation-plan) turns an AI feature goal into test slices, an observable rubric, guardrails, fallback behavior, and a release gate.
 
 Read the [skill suite README](https://github.com/asdc163/pm-signal-lab#portable-pm-skills), then use the [skill pilot issue #46](https://github.com/asdc163/pm-signal-lab/issues/46) to report one concrete client or workflow observation.
 
