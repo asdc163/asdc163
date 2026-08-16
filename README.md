@@ -32,6 +32,7 @@ The released PM skill set is deliberately small and tool-free:
 - [PM AI Cost to Guardrail](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-cost-to-guardrail) turns an AI or agent cost or latency signal into a source-bounded ledger, cost per completed outcome, p50/p95 budget, quality guardrails, and a release decision.
 - [PM AI Context to Contract](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-context-to-contract) turns an AI or agent context change into a source-bounded contract for instructions, knowledge, tools, memory, state, and query, with freshness, privacy, budget, compaction, recovery, and a release decision.
 - [PM AI Tool to Contract](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-tool-to-contract) turns an AI or MCP tool into a source-bounded agent-facing contract for purpose, scope, schema, output provenance, permissions, side effects, recovery, routing, evaluation, and release.
+- [PM AI Memory to Policy](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-memory-to-policy) turns an AI or agent memory idea into a source-bounded policy for memory versus state, write and read eligibility, provenance, scope, freshness, privacy, user control, poisoning defense, evaluation, fallback, and release.
 
 Read the [skill suite README](https://github.com/asdc163/pm-signal-lab#portable-pm-skills), then use the [skill pilot issue #46](https://github.com/asdc163/pm-signal-lab/issues/46) to report one concrete client or workflow observation.
 
