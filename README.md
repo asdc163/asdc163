@@ -28,6 +28,7 @@ The released PM skill set is deliberately small and tool-free:
 - [PM AI Task Boundary](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-task-boundary) decides what an AI system may do, what a person must own, where approval is required, and what the smallest safe evaluation should test.
 - [PM AI Trace to Regression](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-trace-to-regression) turns an AI or agent failure trace into a bounded failure classification, containment step, minimal reproduction, regression case, and release decision.
 - [PM AI Incident to Runbook](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-incident-to-runbook) turns an AI or agent incident signal into a critical-journey impact map, severity, containment, recovery runbook, verification gate, and learning writeback.
+- [PM AI Approval to Flow](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-approval-to-flow) turns an AI or agent action proposal into a risk-bounded approval flow with preview, permissions, explicit decision states, durable receipts, recovery, and a release gate.
 
 Read the [skill suite README](https://github.com/asdc163/pm-signal-lab#portable-pm-skills), then use the [skill pilot issue #46](https://github.com/asdc163/pm-signal-lab/issues/46) to report one concrete client or workflow observation.
 
