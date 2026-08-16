@@ -20,6 +20,7 @@ The released PM skill set is deliberately small and tool-free:
 - [PM AI Evaluation Plan](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-evaluation-plan) turns an AI feature goal into test slices, an observable rubric, guardrails, fallback behavior, and a release gate.
 - [PM Feedback to Fix](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-feedback-to-fix) turns a de-identified product observation into a bounded reproduction path, smallest fix or experiment, acceptance checks, and release/rollback notes.
 - [PM Decision to Spec](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-decision-to-spec) turns an evidence-backed product decision into a bounded handoff with scope, UX states, acceptance criteria, measurement, rollout, and rollback.
+- [PM Proof to Share](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-proof-to-share) turns a verified release into an evidence-backed share pack with one audience, one channel, a useful try path, visible boundaries, and a concrete feedback ask.
 
 Read the [skill suite README](https://github.com/asdc163/pm-signal-lab#portable-pm-skills), then use the [skill pilot issue #46](https://github.com/asdc163/pm-signal-lab/issues/46) to report one concrete client or workflow observation.
 
