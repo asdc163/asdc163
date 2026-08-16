@@ -25,6 +25,7 @@ The released PM skill set is deliberately small and tool-free:
 - [PM Outcome to Metric](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-outcome-to-metric) turns a product outcome or AI product goal into an evidence-bounded metric contract with a primary measure, denominator, window, guardrails, instrumentation gaps, and a decision rule.
 - [PM Release to Learn](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-release-to-learn) turns a verified release into a bounded rollout-and-learning plan with an audience, observation window, primary learning signal, guardrails, rollback trigger, feedback capture, and next decision.
 - [PM Opportunity to Bet](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-opportunity-to-bet) turns multiple evidence-backed opportunity candidates into one bounded product bet with a source ledger, assumptions, opportunity cost, smallest validation, non-goals, and a stop or revise rule.
+- [PM AI Task Boundary](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-task-boundary) decides what an AI system may do, what a person must own, where approval is required, and what the smallest safe evaluation should test.
 
 Read the [skill suite README](https://github.com/asdc163/pm-signal-lab#portable-pm-skills), then use the [skill pilot issue #46](https://github.com/asdc163/pm-signal-lab/issues/46) to report one concrete client or workflow observation.
 
