@@ -27,6 +27,7 @@ The released PM skill set is deliberately small and tool-free:
 - [PM Opportunity to Bet](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-opportunity-to-bet) turns multiple evidence-backed opportunity candidates into one bounded product bet with a source ledger, assumptions, opportunity cost, smallest validation, non-goals, and a stop or revise rule.
 - [PM AI Task Boundary](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-task-boundary) decides what an AI system may do, what a person must own, where approval is required, and what the smallest safe evaluation should test.
 - [PM AI Trace to Regression](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-trace-to-regression) turns an AI or agent failure trace into a bounded failure classification, containment step, minimal reproduction, regression case, and release decision.
+- [PM AI Incident to Runbook](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-incident-to-runbook) turns an AI or agent incident signal into a critical-journey impact map, severity, containment, recovery runbook, verification gate, and learning writeback.
 
 Read the [skill suite README](https://github.com/asdc163/pm-signal-lab#portable-pm-skills), then use the [skill pilot issue #46](https://github.com/asdc163/pm-signal-lab/issues/46) to report one concrete client or workflow observation.
 
