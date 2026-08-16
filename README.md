@@ -23,6 +23,7 @@ The released PM skill set is deliberately small and tool-free:
 - [PM Proof to Share](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-proof-to-share) turns a verified release into an evidence-backed share pack with one audience, one channel, a useful try path, visible boundaries, and a concrete feedback ask.
 - [PM Interview to Insight](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-interview-to-insight) turns de-identified interview notes, usability sessions, or workflow observations into an evidence-bounded insight map, contradiction log, and one next learning action.
 - [PM Outcome to Metric](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-outcome-to-metric) turns a product outcome or AI product goal into an evidence-bounded metric contract with a primary measure, denominator, window, guardrails, instrumentation gaps, and a decision rule.
+- [PM Release to Learn](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-release-to-learn) turns a verified release into a bounded rollout-and-learning plan with an audience, observation window, primary learning signal, guardrails, rollback trigger, feedback capture, and next decision.
 
 Read the [skill suite README](https://github.com/asdc163/pm-signal-lab#portable-pm-skills), then use the [skill pilot issue #46](https://github.com/asdc163/pm-signal-lab/issues/46) to report one concrete client or workflow observation.
 
