@@ -30,6 +30,7 @@ The released PM skill set is deliberately small and tool-free:
 - [PM AI Incident to Runbook](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-incident-to-runbook) turns an AI or agent incident signal into a critical-journey impact map, severity, containment, recovery runbook, verification gate, and learning writeback.
 - [PM AI Approval to Flow](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-approval-to-flow) turns an AI or agent action proposal into a risk-bounded approval flow with preview, permissions, explicit decision states, durable receipts, recovery, and a release gate.
 - [PM AI Cost to Guardrail](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-cost-to-guardrail) turns an AI or agent cost or latency signal into a source-bounded ledger, cost per completed outcome, p50/p95 budget, quality guardrails, and a release decision.
+- [PM AI Context to Contract](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-context-to-contract) turns an AI or agent context change into a source-bounded contract for instructions, knowledge, tools, memory, state, and query, with freshness, privacy, budget, compaction, recovery, and a release decision.
 
 Read the [skill suite README](https://github.com/asdc163/pm-signal-lab#portable-pm-skills), then use the [skill pilot issue #46](https://github.com/asdc163/pm-signal-lab/issues/46) to report one concrete client or workflow observation.
 
