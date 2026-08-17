@@ -47,6 +47,7 @@ The released PM skill set is deliberately small and tool-free:
 - [PM AI Uncertainty to Experience](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-uncertainty-to-experience) turns incomplete, conflicting, delayed, or unsupported AI results into honest user-visible states with provenance, controls, recovery, trust evaluation, and release evidence.
 - [PM AI Signal to Intervention](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-signal-to-intervention) turns online AI quality, safety, trust, cost, latency, policy, or behavior signals into proportionate interventions with scope, owner, TTL, recovery, rollback, and learning writeback.
 - [PM AI Prompt Injection to Defense](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-prompt-injection-to-defense) maps direct or indirect injection, tool poisoning, and untrusted agent/MCP content into an attack path, authority boundary, smallest defense, negative evals, and a bounded release decision.
+- [PM AI Output to Interface](https://github.com/asdc163/pm-signal-lab/tree/main/skills/pm-ai-output-to-interface) decides whether an AI or agent result should stay text, become structured data, render as a bounded interface, or propose an action, with a trusted component catalog, fallback, side-effect boundary, and evaluation gate.
 
 Read the [skill suite README](https://github.com/asdc163/pm-signal-lab#portable-pm-skills), then use the [skill pilot issue #46](https://github.com/asdc163/pm-signal-lab/issues/46) to report one concrete client or workflow observation.
 
