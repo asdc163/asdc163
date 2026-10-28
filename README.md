@@ -1,27 +1,31 @@
-# Tommy | AI Builder
+# Tommy | Technical Product Manager & AI Builder
 
-I turn product ideas into working software with AI-assisted development. I work across product scope, UX, implementation, debugging, and engineering handoff.
+I turn user problems into scoped products, then work through the technical decisions needed to build and evaluate them. My work connects product flows with LLM integration, AI evaluation design, and engineering handoff.
 
-Recent work includes a Telegram community bot and a VPN subscription system. Both are commercial projects, so their public repositories explain the engineering through anonymized case studies. Source code, client identities, and operating data stay private.
+[AI capability evidence](https://github.com/asdc163/ai-builder-portfolio/blob/main/docs/ai-capability-evidence.md) · [TPM review guide](https://github.com/asdc163/ai-builder-portfolio/blob/main/docs/tpm-review-guide.md) · [中文作品集](https://github.com/asdc163/ai-builder-portfolio/blob/main/README.zh-TW.md)
 
-[Portfolio / 作品集](https://github.com/asdc163/ai-builder-portfolio) · [繁體中文介紹](https://github.com/asdc163/ai-builder-portfolio/blob/main/README.zh-TW.md)
+## AI work you can inspect
 
-## Selected work
+- [TOEFL Vocab](https://github.com/asdc163/toefl-vocab): server-side Gemini integration, JSON-shaped generation requests, timeout/error handling, and an offline learning core.
+- [PM Signal Lab](https://github.com/asdc163/pm-signal-lab/tree/main/playbooks/ai-launch-review): a source-linked evaluation exercise with critical failures, a scoring key, and a pilot decision. The sample responses are fictional practice material.
+- [CareLens](https://github.com/asdc163/carelens): a multimodal prototype with Claude image input, access checks, and Zod response parsing. No-key mode uses mocks; clinical reliability is not established.
+- [OpenClaw Dashboard](https://github.com/altoslab447/openclaw-dashboard): local, read-only visibility into agent-workspace tasks, schedules, configuration, and logs.
 
-| Project | What I worked on | Public material |
-| --- | --- | --- |
-| [Telegram Community Bot](https://github.com/asdc163/telegram-community-bot-case-study) | Group participation, owner-only private management, delivery recovery, and handoff. | Anonymized commercial case study |
-| [VPN Subscription System](https://github.com/asdc163/vpn-subscription-case-study) | Account and checkout flows, payment reconciliation, renewals, and client access. | Anonymized commercial case study |
-| [OpenClaw Dashboard](https://github.com/altoslab447/openclaw-dashboard) | A local, read-only view of an AI agent workspace. | Open-source repository |
-| [TOEFL Vocab](https://github.com/asdc163/toefl-vocab) | Offline vocabulary learning and spaced repetition, with optional AI extensions. | Public source |
-| [PM Signal Lab](https://github.com/asdc163/pm-signal-lab) | Source-linked product decisions, PM skills, and evaluation practice cases. | Public source and examples |
+## Commercial engineering cases
+
+| Case | Technical decisions to discuss |
+| --- | --- |
+| [Telegram Community Bot](https://github.com/asdc163/telegram-community-bot-case-study) | Current-owner authorization, group/private interaction boundaries, uncertain delivery, and ownership transfer. |
+| [VPN Subscription System](https://github.com/asdc163/vpn-subscription-case-study) | Payment attribution, idempotent entitlement updates, renewals, client coordination, and release dependencies. |
+
+Both commercial cases were built with AI-assisted development and use deterministic product logic. Their public repositories contain anonymized documentation; commercial source, client identity, and operating data remain private.
 
 ## How I work
 
-Start with the user's task. Make failure states visible. Check behavior at the right layer and leave a usable handoff. AI helps me build; whether a product needs a model-backed feature depends on the problem.
+Make the user action concrete. Define the system boundary and failure states. Check the behavior at the right layer, then leave an acceptance and recovery path for the next owner.
 
-我用 AI 協助把產品想法做成第一版，也處理正常流程之外的問題：重複付款怎麼去重、Bot 權限變更後舊按鈕還能不能用，以及接手的人怎麼恢復服務。
+我用 AI 協作開發，也做模型功能整合與評估規劃。這裡把能力連到可檢查的程式與案例，方便從產品範圍、技術取捨一路討論到交付。
 
-If you have a product idea or workflow problem, [describe the public outline here](https://github.com/asdc163/ai-builder-portfolio/issues/new?template=project-inquiry.yml). Keep credentials and commercial details out of public issues.
+[Portfolio](https://github.com/asdc163/ai-builder-portfolio) · [Public project inquiry](https://github.com/asdc163/ai-builder-portfolio/issues/new?template=project-inquiry.yml)
 
-Other work lives under [altoslab447](https://github.com/altoslab447) and [altoslab-offical](https://github.com/altoslab-offical). Each repository documents its own current status; a portfolio listing does not certify a live deployment.
+The evidence map records the reviewed source versions and limits. Product execution, provider quality, business outcomes, and cross-team leadership are not inferred from a repository listing. Other work lives under [altoslab447](https://github.com/altoslab447) and [altoslab-offical](https://github.com/altoslab-offical).
