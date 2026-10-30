@@ -4,6 +4,14 @@ I'm a technical product manager. I build learning tools, work on AI features, an
 
 [LinkedIn](https://www.linkedin.com/in/chia-en/) · [Projects](https://github.com/asdc163/ai-builder-portfolio) · [中文](https://github.com/asdc163/ai-builder-portfolio/blob/main/README.zh-TW.md)
 
+## Recent work
+
+**[Community quest platform](https://github.com/asdc163/ai-builder-portfolio/blob/main/cases/quest-platform/README.md)**: participant submissions, operator review and points. The case follows a retry through the ledger and the final package through a fresh setup.
+
+**[Spot trading interface](https://github.com/asdc163/ai-builder-portfolio/blob/main/cases/spot-interface/README.md)**: a React Native demo with wallet switching and separate iOS and Android checks. It includes a state-race fix; all trading is simulated.
+
+The two cases are anonymized. Their implementations and client materials remain private.
+
 ## Selected work
 
 **[TOEFL Vocab](https://github.com/asdc163/toefl-vocab)**: an offline vocabulary app with spaced repetition and optional Gemini features. Generation sits outside the study core, so the app remains useful without a model key.
