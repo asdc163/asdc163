@@ -4,6 +4,8 @@ I'm a technical product manager. I build learning tools, work on AI features, an
 
 [LinkedIn](https://www.linkedin.com/in/chia-en/) · [Projects](https://github.com/asdc163/ai-builder-portfolio) · [中文](https://github.com/asdc163/ai-builder-portfolio/blob/main/README.zh-TW.md)
 
+[Product screens and case notes](https://github.com/asdc163/ai-builder-portfolio/tree/main/media)
+
 ## Recent work
 
 **[Node service mobile interface](https://github.com/asdc163/ai-builder-portfolio/blob/main/cases/node-interface/README.md)**: an embeddable React Native module. The receiving app supplies account data and authorization; the case covers stale quotes, recovery and native touch targets.
