@@ -6,6 +6,8 @@ I'm a technical product manager. I build learning tools, work on AI features, an
 
 ## Recent work
 
+**[Node service mobile interface](https://github.com/asdc163/ai-builder-portfolio/blob/main/cases/node-interface/README.md)**: an embeddable React Native module. The receiving app supplies account data and authorization; the case covers stale quotes, recovery and native touch targets.
+
 **[Community quest platform](https://github.com/asdc163/ai-builder-portfolio/blob/main/cases/quest-platform/README.md)**: participant submissions, operator review and points. The case follows a retry through the ledger and the final package through a fresh setup.
 
 **[Spot trading interface](https://github.com/asdc163/ai-builder-portfolio/blob/main/cases/spot-interface/README.md)**: a React Native demo with wallet switching and separate iOS and Android checks. It includes a state-race fix; all trading is simulated.
