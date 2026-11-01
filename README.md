@@ -1,31 +1,26 @@
 # Tommy
 
-I'm a technical product manager. I build learning tools, work on AI features, and write about the decisions behind them.
+Technical Product Manager · AI Builder
 
-[LinkedIn](https://www.linkedin.com/in/chia-en/) · [Projects](https://github.com/asdc163/ai-builder-portfolio) · [中文](https://github.com/asdc163/ai-builder-portfolio/blob/main/README.zh-TW.md)
+I build learning tools and automation, including optional AI features. Recent work covers native interfaces and the service workflows behind submissions, permissions and payments.
 
-[Product screens and case notes](https://github.com/asdc163/ai-builder-portfolio/tree/main/media)
-
-## Recent work
-
-**[Node service mobile interface](https://github.com/asdc163/ai-builder-portfolio/blob/main/cases/node-interface/README.md)**: an embeddable React Native module. The receiving app supplies account data and authorization; the case covers stale quotes, recovery and native touch targets.
-
-**[Community quest platform](https://github.com/asdc163/ai-builder-portfolio/blob/main/cases/quest-platform/README.md)**: participant submissions, operator review and points. The case follows a retry through the ledger and the final package through a fresh setup.
-
-**[Spot trading interface](https://github.com/asdc163/ai-builder-portfolio/blob/main/cases/spot-interface/README.md)**: a React Native demo with wallet switching and separate iOS and Android checks. It includes a state-race fix; all trading is simulated.
-
-These case studies are anonymized. Their implementations and client materials remain private.
+[Portfolio](https://github.com/asdc163/ai-builder-portfolio) · [Product screens](https://github.com/asdc163/ai-builder-portfolio/blob/main/media/README.md) · [LinkedIn](https://www.linkedin.com/in/chia-en/) · [中文](https://github.com/asdc163/ai-builder-portfolio/blob/main/README.zh-TW.md)
 
 ## Selected work
 
-**[TOEFL Vocab](https://github.com/asdc163/toefl-vocab)**: an offline vocabulary app with spaced repetition and optional Gemini features. Generation sits outside the study core, so the app remains useful without a model key.
+| Project | What to inspect |
+| --- | --- |
+| [TOEFL Vocab](https://github.com/asdc163/toefl-vocab) · code | Offline study with optional Gemini features. [Integration notes](https://github.com/asdc163/ai-builder-portfolio/blob/main/docs/ai-capability-evidence.md#toefl-vocab) explain the provider boundary. |
+| [PM Signal Lab](https://github.com/asdc163/pm-signal-lab/tree/main/playbooks/ai-launch-review) · code & exercise | An authored AI launch review: policy, sample responses, scoring and a decision to hold a pilot. The exercise is fictional. |
+| [Telegram community bot](https://github.com/asdc163/telegram-community-bot-case-study) · case | Current-owner checks, private controls and recovery when delivery is uncertain. |
+| [VPN subscriptions](https://github.com/asdc163/vpn-subscription-case-study) · case | Payment reconciliation, pending orders and the return to client access. |
 
-**[PM Signal Lab](https://github.com/asdc163/pm-signal-lab/tree/main/playbooks/ai-launch-review)**: an AI launch-review exercise. It includes a source policy, sample responses, a scoring key and a decision to hold a pilot over an unsupported refund approval. The cases are fictional.
+## Recent builds
 
-**[OpenClaw Dashboard](https://github.com/altoslab447/openclaw-dashboard)**: a local, read-only view of an agent workspace: tasks, schedules, configuration and logs.
+[Node module](https://github.com/asdc163/ai-builder-portfolio/tree/main/cases/node-interface) · [Community quest platform](https://github.com/asdc163/ai-builder-portfolio/tree/main/cases/quest-platform) · [Spot interface](https://github.com/asdc163/ai-builder-portfolio/tree/main/cases/spot-interface)
 
-I also worked on a commercial [Telegram community bot](https://github.com/asdc163/telegram-community-bot-case-study) and [VPN subscription system](https://github.com/asdc163/vpn-subscription-case-study). The cases cover owner permissions, delivery failures, payment reconciliation and handoff. Client details and commercial source stay private.
+Native host contracts, review-and-resubmission flows, and a local order-state race. These anonymized cases include selected engineering decisions and redacted screens; commercial implementations stay private.
 
 ## Notes
 
-[Valid JSON can still be wrong](https://github.com/asdc163/ai-builder-portfolio/blob/main/notes/structured-output.md): what schema checks catch, what they miss, and how I would test the rest.
+[Valid JSON can still be wrong](https://github.com/asdc163/ai-builder-portfolio/blob/main/notes/structured-output.md) · [AI implementation](https://github.com/asdc163/ai-builder-portfolio/blob/main/docs/ai-capability-evidence.md) · [Product decisions](https://github.com/asdc163/ai-builder-portfolio/blob/main/docs/tpm-review-guide.md)
