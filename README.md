@@ -12,7 +12,7 @@ I'm a technical product manager. I build learning tools, work on AI features, an
 
 **[Spot trading interface](https://github.com/asdc163/ai-builder-portfolio/blob/main/cases/spot-interface/README.md)**: a React Native demo with wallet switching and separate iOS and Android checks. It includes a state-race fix; all trading is simulated.
 
-The two cases are anonymized. Their implementations and client materials remain private.
+These case studies are anonymized. Their implementations and client materials remain private.
 
 ## Selected work
 
